@@ -1,0 +1,42 @@
+﻿#header {
+    
+    border: 1px solid blue;
+    height: 35px;
+    width: 100%;
+    text-align: center;
+    background-color:blue;
+    color:white;
+    font-size:25px;
+}
+
+.nav1 {
+    margin: auto;
+    border: 1px solid blue;
+    height: 20px;
+    width: 100%;
+    text-align: right;
+    background-color: aqua;
+}
+
+.img1 {
+    height: 35px;
+    width: 80px;
+    float: left;
+    margin: auto;
+}
+
+#mcontent {
+    margin: auto;
+    border: 1px solid blue;
+    height: 600px;
+    width: 100%;
+    text-align: center;
+}
+
+#footer {
+    margin: auto;
+    border: 1px solid blue;
+    height: 20px;
+    width: 100%;
+    text-align: center;
+}
